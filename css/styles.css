@@ -3,3 +3,187 @@
     box-sizing: border-box;
     font-family: 'Merienda', cursive;
 }
+#slide {
+    background-image: url(/images/write.jpeg);
+    position:relative;
+    margin-top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 96vh;
+    width: 100%;
+    
+
+}
+
+#name {
+  
+    position: absolute;
+    font-weight: 100;
+    z-index: 2;
+    margin-top: -20%;
+    letter-spacing: 8px;
+    left: 50px;
+    right: 50px;
+    line-height: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+#name h2 .yes {
+    color: yellow;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style: none;
+    margin-top: -10px;
+    margin-left: 15%;
+}
+
+nav ul li {
+    display: inline-block;
+    border-radius: 25px;
+    padding: 0 4%;
+    font-family: 'Merienda', cursive;
+    
+
+}
+
+nav ul li:hover {
+    color: white;
+    background-color: aqua;
+    background-size: cover;
+    border: 1px solid green;
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
+#about{
+    position: relative;
+    margin-top: 7%;
+    
+}
+
+#me img{
+    width: 250px;
+   
+}
+
+#para{
+    margin-left: 20%;
+    margin-top: 30px;
+}
+#para p{
+    line-height: 30px;
+}
+#para p span,#para  .wa,#about h2,#skills h2,.stats,#row,.card-title{
+    color: blue;
+}
+#float{
+    display: flex;
+}
+#skills{
+   position: absolute;
+   margin-top: 4%; 
+}
+#skills img{
+    width: 100px;
+}
+
+.coding{
+    display: flex;  
+}
+.card{
+    padding: 40px; 
+}
+#skills h2,#skills .content,#about h2,#row h2{
+    margin-left:50%;
+}
+#me img{
+    margin-left:20%;
+}
+.stats{
+    margin-top: 46%;
+    position: relative;
+}
+#row{
+    background-color:	#C0C0C0;
+    margin-top:30%;
+    position:absolute;
+}
+
+.squareItem{
+    position: relative;
+    margin-top: 30px; 
+}
+.squareInnerContainer{
+    padding:50px 15px 35px;
+    text-align: center;
+    position: absolute;
+    border: 2px solid #444;
+    border-top: none;
+}
+.squareInnerContainer::before,.squareInnerContainer:after{
+    content:'';
+    position: absolute;
+    top:0px;
+    width: 30%;
+    border-bottom:2px solid #444;
+}
+.squareInnerContainer::before{
+    right:0;
+}
+.tafuta{
+    margin-left:80%;
+}
+.tafuta span{
+    color: #444;
+}
+#moja{
+    display: flex;
+}
+.squareInnerContainer::after{
+    left:0;
+}
+.squareContent h2{
+    font-size:56px;
+    margin-bottom:10px;
+    font-weight:400;
+    color:red;
+
+}
+.squareContent h3{
+    font-size:13px;
+    font-weight:600px;
+    margin:0;
+}
+#exampleInputPassword1,#exampleInputEmail1{
+
+    padding: 10px;
+    border-radius: 25px;   
+}
+#exampleInputEmail1{
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid aqua;
+}
+#exampleInputPassword1{
+    padding: 40px;
+    margin: 10px;
+    border: 2px solid aqua;
+    margin-bottom:20px;
+}
+#oma{
+    border-radius: 25px;   
+    margin-top:12px;
+    margin-left:15px;
+    color:blue;
+}
+
