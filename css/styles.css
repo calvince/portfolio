@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Cute+Font|Merienda");
+*,::after,::before{
+    box-sizing: border-box;
+    font-family: 'Merienda', cursive;
+}
