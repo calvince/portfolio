@@ -91,6 +91,7 @@ header{
 }
 #row h2,.mwah{
     margin-bottom: 30px;
+    
 }
 #exampleInputEmail1{
    border-radius: 25px;
@@ -101,4 +102,22 @@ header{
 }
 #juu{
     font-weight: 900;
+}
+#projects{background-color: #C0C0C0;}
+#row{background-color: #C0C0C0;}
+.squareItem{
+    margin-top: 30px;
+    position: relative;
+    margin: 0 15px;
+    padding: 0 30px;
+    text-align: center;
+}
+.squareInnerContainer{
+    padding: 50px 15px 35px;
+    position: relative;
+    border: 2px solid #444;
+   
+}
+#form{
+    margin-left: 2%;
 }
