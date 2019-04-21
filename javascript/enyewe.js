@@ -1,6 +1,5 @@
 
-
-var omonge = new Typed(".yes", {
+var omonge = new Typed(".moringa", {
     strings: ["Software Developer",
      "Manchester Fan",
      "Student @ Moringa School",
