@@ -17,7 +17,7 @@ nav ul {
 nav ul li {
     display: inline-block;
     border-radius: 25px;
-    text-decoration: none;
+    
     padding: 0 20px;
     font-family: 'Merienda', cursive;
 }
@@ -30,7 +30,7 @@ nav ul li:hover {
 }
 
 nav ul li a {
-    
+    text-decoration: inherit;
     text-transform: uppercase;
     color: #fff;
 }
@@ -55,17 +55,15 @@ header{
 #style img{
     float: left;
     width: 250px;
-    margin-right: 15%;
+    margin-right: 10%;
+    margin-left: 2%;
 }
 #para h2,#skills h2{
     text-align: center;
     margin-top: 40px;
 }
 .content{text-align: center;}
-/* .coding{
-    display: flex;
-    justify-content: space-between;
-} */
+
 .card{
     margin-right: 5px;
     margin-bottom: 30px;
@@ -74,4 +72,12 @@ header{
     margin-top: 45px;
     text-align: center;
 }
+#moja{
+    display: flex;
+    justify-content: center;
 
+}
+#form{
+    margin-left: -20%;
+    margin-right: 25%;
+}
