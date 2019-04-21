@@ -46,5 +46,31 @@ header{
     color: #fff;
     margin-top: 15%;
 }
-.yes{color: rgb(30, 255, 0);}
+.moringa{color: rgb(30, 255, 0);}
+#para h2,#para span,#skills h2,#projects h2,.stats h2,#row h2,.tafuta span{color: blue;}
+#skills img{
+    width: 253px;
+}
+#style img{
+    float: left;
+    width: 250px;
+    margin-right: 15%;
+}
+#para h2,#skills h2{
+    text-align: center;
+    margin-top: 40px;
+}
+.content{text-align: center;}
+/* .coding{
+    display: flex;
+    justify-content: space-between;
+} */
+.card{
+    margin-right: 5px;
+    margin-bottom: 30px;
+}
+#projects{
+    margin-top: 45px;
+    text-align: center;
+}
 
