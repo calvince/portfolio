@@ -1,7 +1,7 @@
 
 
 import Typed from 'typed.js';
-var omonge = new Typed(".yes", {
+var omonge = new Typed(".moringa", {
     strings: ["Software Developer",
      "Manchester Fan",
      "Student @ Moringa School",
@@ -11,3 +11,4 @@ var omonge = new Typed(".yes", {
     loop:true
 
   });
+  
