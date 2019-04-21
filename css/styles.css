@@ -62,7 +62,7 @@ header{
     text-align: center;
     margin-top: 40px;
 }
-.content{text-align: center;}
+.content,#row h2,.mwah,#bold{text-align: center;}
 
 .card{
     margin-right: 5px;
@@ -72,6 +72,7 @@ header{
     margin-top: 45px;
     text-align: center;
 }
+#projects h2{ margin-bottom: 6%;margin-top:10%;;}
 #moja{
     display: flex;
     justify-content: center;
@@ -80,4 +81,20 @@ header{
 #form{
     margin-left: -20%;
     margin-right: 25%;
+   
+}
+.stats{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 4%;
+}
+#row h2,.mwah{
+    margin-bottom: 30px;
+}
+#exampleInputEmail1{
+   border-radius: 25px;
+}
+#exampleInputPassword1{
+    border-radius: 25px;
+    padding: 0px 30px;
 }
