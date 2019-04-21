@@ -3,5 +3,36 @@
     box-sizing: border-box;
     font-family: 'Merienda', cursive;
 }
+nav {
+    margin: 0;
+    padding: 0;
+}
 
+nav ul {
+    list-style: none;
+    margin-top: -10px;
+    margin-left: 15%;
+}
+
+nav ul li {
+    display: inline-block;
+    border-radius: 25px;
+    padding: 0 4%;
+    font-family: 'Merienda', cursive;
+    
+
+}
+
+nav ul li:hover {
+    color: white;
+    background-color: aqua;
+    background-size: cover;
+    border: 1px solid green;
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
 
