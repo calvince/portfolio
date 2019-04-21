@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Cute+Font|Merienda");
+
 *,::after,::before{
     box-sizing: border-box;
     font-family: 'Merienda', cursive;
@@ -97,4 +98,7 @@ header{
 #exampleInputPassword1{
     border-radius: 25px;
     padding: 0px 30px;
+}
+#juu{
+    font-weight: 900;
 }
