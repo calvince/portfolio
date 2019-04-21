@@ -1,5 +1,6 @@
 
 
+import Typed from 'typed.js';
 var omonge = new Typed(".yes", {
     strings: ["Software Developer",
      "Manchester Fan",
