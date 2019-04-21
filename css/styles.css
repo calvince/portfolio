@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Cute+Font|Merienda");
-
 *,::after,::before{
     box-sizing: border-box;
     font-family: 'Merienda', cursive;
@@ -8,13 +7,11 @@ nav {
     margin: 0;
     padding: 0;
 }
-
 nav ul {
     list-style: none;
     margin-top: -9px;
     margin-left: 17%;
 }
-
 nav ul li {
     display: inline-block;
     border-radius: 25px;
@@ -29,7 +26,6 @@ nav ul li:hover {
     background-size: cover;
     border: 1px solid green;
 }
-
 nav ul li a {
     text-decoration: inherit;
     text-transform: uppercase;
@@ -77,12 +73,10 @@ header{
 #moja{
     display: flex;
     justify-content: center;
-
 }
 #form{
     margin-left: -20%;
-    margin-right: 25%;
-   
+    margin-right: 25%;  
 }
 .stats{
     margin-top: 10%;
@@ -115,8 +109,7 @@ header{
 .squareInnerContainer{
     padding: 50px 15px 35px;
     position: relative;
-    border: 2px solid #444;
-   
+    border: 2px solid #444; 
 }
 #form{
     margin-left: 2%;
