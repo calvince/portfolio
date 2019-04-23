@@ -17,7 +17,7 @@ This is basically a portfolio website containing all about me. It has different 
 ## Support and contact details
 Feel free to contact me @ omosh on slack
 ### License
-*This is a MIT kind of license where no one is restricted in using my content*
+MIT - <https://opensource.org/licenses/MIT>
 
 Copyright &copy; 2019.All rigths reserved
   
